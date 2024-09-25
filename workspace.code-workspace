@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\code"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\githubstuff"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\webbuppgift"
+		},
+		{
+			"path": "..\\listor"
+		},
+		{
+			"path": "..\\github1"
+		},
+		{
+			"path": "..\\uppgift2"
+		},
+		{
+			"path": "..\\uppgift1"
+		},
+		{
+			"path": "..\\uppgift 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gymnasie arbete hemsida"
+	}
+}
