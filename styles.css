@@ -1,7 +1,7 @@
 #rektangeltitel {
     text-align: center;
     font-size: 25px;
-    border: 10px black;
+    border: 5px black;
     border-style: solid;
     display: flex;
     justify-content: space-between  
@@ -26,12 +26,64 @@ h1 {
 
 .tabell1 {
     color: white;
-    background-color: darkgray;
-    border: 10px gold;
+    background-color:rgb(56, 56, 56);
+    border: 2px gold;
     border-style: solid;
     align-items: center;
     justify-content: center;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
+.nyår {
+    background-color: gold;
+    width: 25vh;
+}
+
+.julafton {
+    background-color: white;
+    color: red;
+    width: 25vh;;
+}
+
+table {
+    width: 300px;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    border: 5px black;
+    border-style: solid;
+}
+
+th, td {
+    border: 2px solid #FF5C5C;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #c29f9fb9;
+    color: rgb(0, 0, 0);
+}
+
+td {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+.titel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 5px black;
+    border-style: solid;
+    margin: auto;
+    max-width: 750px;
+    
+}

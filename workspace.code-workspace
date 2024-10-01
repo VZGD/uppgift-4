@@ -1,31 +1,40 @@
 {
 	"folders": [
 		{
+			"name": "gymnasie arbete hemsida",
 			"path": ".."
 		},
 		{
+			"name": "code",
 			"path": "..\\..\\..\\..\\..\\code"
 		},
 		{
-			"path": "..\\..\\..\\..\\..\\githubstuff"
-		},
-		{
+			"name": "webbuppgift",
 			"path": "..\\..\\..\\..\\..\\webbuppgift"
 		},
 		{
+			"name": "listor",
 			"path": "..\\listor"
 		},
 		{
+			"name": "github1",
 			"path": "..\\github1"
 		},
 		{
+			"name": "uppgift2",
 			"path": "..\\uppgift2"
 		},
 		{
+			"name": "uppgift1",
 			"path": "..\\uppgift1"
 		},
 		{
+			"name": "uppgift 3",
 			"path": "..\\uppgift 3"
+		},
+		{
+			"name": "githubstuff",
+			"path": "..\\..\\..\\..\\..\\githubstuff"
 		}
 	],
 	"settings": {
