@@ -15,7 +15,7 @@
 
 
 body {
-    background-image: url(/img/winter-snow.jpg);
+    background-image: url("./img/winter-snow.jpg");
 }
 
 h1 {
